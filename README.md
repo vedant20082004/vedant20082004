@@ -1,7 +1,27 @@
 ![logo](https://www.bing.com/th/id/OGC.3b1a363e57636d364c1c3e2d183f5e4f?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fsimon-zerisenay%2fsimon-zerisenay%2fmain%2fwork.gif&ehk=IbNENbCnBHnONHSTdpzdfTGryD7gTdz3%2b9kasjhtlm4%3d)
+<h1 align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&pause=1000&color=F73AB9&center=true&vCenter=true&repeat=false&random=true&width=500&height=70&lines=VEDANT+PISAL+DESHMUKH" alt="Typing SVG" /></a>
+<p align='center'>
+<a href="https://github.com/vedant20082004"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73187&center=true&vCenter=true&random=true&width=700&height=50&lines=A+passionate+frontend+%26+backend+developer+from+India;Passionate+to+contribute+in+open+source;Ready+to+tackle+challenges;1.5+Years+of+coding+Experience;Experienced+Developer" alt="Typing SVG" /></a>
+</p>
 
-<h1 align="center">Hi 👋, I'm VEDANT PISAL DESHMUKH</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+<!-- Social icons section  https://imgur.com/FTfZyuk -->
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/vedant-pisal/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/" alt="Discord" title=" Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/vedantpisal"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+</h1>
+
+
 
 <img align="right" alt="coding" width="" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
