@@ -1,4 +1,4 @@
-![logo](https://www.bing.com/th/id/OGC.3b1a363e57636d364c1c3e2d183f5e4f?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fsimon-zerisenay%2fsimon-zerisenay%2fmain%2fwork.gif&ehk=IbNENbCnBHnONHSTdpzdfTGryD7gTdz3%2b9kasjhtlm4%3d)
+
 <h1 align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=39&pause=1000&color=F73AB9&center=true&vCenter=true&repeat=false&random=true&width=520&height=70&lines=VEDANT+PISAL+DESHMUKH" alt="Typing SVG" /></a>
 <p align='center'>
