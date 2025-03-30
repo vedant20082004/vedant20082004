@@ -10,7 +10,7 @@
   
   <a href="https://www.linkedin.com/in/vedant-pisal/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://x.com/Vedant03361377"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/" alt="Discord" title=" Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -45,11 +45,11 @@
 
 - ⚡ Fun fact **"When I'm not tackling bugs in code, I'm tackling opponents on the football field. State-level footballer & full-stack developer—balancing both games!" ⚽💻**
 <br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Vedant-Pisal-Deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vedant-pisal-deshmukh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vedant-pisal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedant-pisal/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.vedant20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vedant20" height="30" width="40" /></a>
+<a href="https://codepen.io/Vedant-Pisal-Deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vedant-pisal-deshmukh" height="30" width="40"/></a>
+<a href="https://instagram.com/_.vedant20" target="blank"><img align="center" src="https://imgur.com/FTfZyuk.png" alt="_.vedant20" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vivas_vigor_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vivas_vigor_98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vedant2081977pisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant2081977pisal" height="30" width="40" /></a>
 <a href="https://discord.gg/vedant_.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vedant_.20" height="30" width="40" /></a>
