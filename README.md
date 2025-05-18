@@ -44,16 +44,26 @@
 - 📫 How to reach me **vedant2081977pisal@gmail.com**
 
 - ⚡ Fun fact **"When I'm not tackling bugs in code, I'm tackling opponents on the football field. State-level footballer & full-stack developer—balancing both games!" ⚽💻**
-<br/>
 
+  
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Vedant-Pisal-Deshmukh" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ZzeDL3KeMGFW&format=png&color=FFFFFF" alt="@vedant-pisal-deshmukh" height="40" width="40"/></a>
-<a href="https://instagram.com/_.vedant20" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=FFFFFF" alt="_.vedant20" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/vivas_vigor_98" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=FFFFFF" alt="vivas_vigor_98" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/vedant2081977pisal" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=PZknXs9seWCp&format=png&color=FFFFFF" alt="vedant2081977pisal" height="40" width="40" /></a>
-<a href="https://discord.gg/6RFy5zabbM" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=30888&format=png&color=FFFFFF" alt="vedant_.20" height="40" width="40" /></a>
-
+  <a href="https://codepen.io/Vedant-Pisal-Deshmukh" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=ZzeDL3KeMGFW&format=png&color=F25081" alt="@vedant-pisal-deshmukh" height="50" width="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_.vedant20" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=F25081" alt="_.vedant20" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/vivas_vigor_98" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=F25081" alt="vivas_vigor_98" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/vedant2081977pisal" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=PZknXs9seWCp&format=png&color=F25081" alt="vedant2081977pisal" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/6RFy5zabbM" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=30888&format=png&color=F25081" alt="vedant_.20" height="50" width="50" />
+  </a>
 </p>
 <br/>
 <!-- <h3 align="left">Languages and Tools:</h3>
