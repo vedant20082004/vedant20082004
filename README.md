@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/Vedant03361377"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Discord" title=" Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/6RFy5zabbM" alt="Discord" title=" Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/vedantpisal"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -47,11 +47,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Vedant-Pisal-Deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vedant-pisal-deshmukh" height="30" width="40"/></a>
-<a href="https://instagram.com/_.vedant20" target="blank"><img align="center" src="https://imgur.com/FTfZyuk.png" alt="_.vedant20" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vivas_vigor_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vivas_vigor_98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedant2081977pisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant2081977pisal" height="30" width="40" /></a>
-<a href="https://discord.gg/vedant_.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vedant_.20" height="30" width="40" /></a>
+<a href="https://codepen.io/Vedant-Pisal-Deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vedant-pisal-deshmukh" height="40" width="40"/></a>
+<a href="https://instagram.com/_.vedant20" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=FFFFFF" alt="_.vedant20" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/vivas_vigor_98" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=FFFFFF" alt="vivas_vigor_98" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/vedant2081977pisal" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=PZknXs9seWCp&format=png&color=FFFFFF" alt="vedant2081977pisal" height="40" width="40" /></a>
+<a href="https://discord.gg/6RFy5zabbM" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=30888&format=png&color=FFFFFF" alt="vedant_.20" height="40" width="40" /></a>
 
 </p>
 <br/>
@@ -183,5 +183,5 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vedant Pisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vedant20082004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vedant Pisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?=vedant20082004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
